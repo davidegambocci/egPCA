@@ -1,0 +1,8 @@
+==> 2020-11-15 22:54:16 <==
+# cmd: C:\Users\39334\anaconda3\Scripts\conda-script.py create -n egPCA
+# conda version: 4.8.3
+==> 2020-11-15 23:03:47 <==
+# cmd: C:\Users\39334\anaconda3\Scripts\conda-script.py install git
+# conda version: 4.9.2
++defaults/win-64::git-2.23.0-h6bb4b03_0
+# update specs: ['git']
