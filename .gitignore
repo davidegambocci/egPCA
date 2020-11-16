@@ -54,7 +54,7 @@ MANIFEST
 .nonadmin
 Library/
 conda-meta/
-egpca
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
